@@ -1,0 +1,8 @@
+{
+  "name": "CareFlow AI - Healthcare Care-Navigation Agent",
+  "description": "AI Healthcare Care-Navigation Agent: converting fragmented patient documents into structured timelines and coordinated administrative care tasks with human-in-the-loop oversight.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
